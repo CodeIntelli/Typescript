@@ -42,7 +42,7 @@
 
 - install node
 
-```javascript
+```TypeScript
 npm install -g typescript
 ```
 

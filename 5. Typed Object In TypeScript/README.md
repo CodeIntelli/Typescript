@@ -1,6 +1,10 @@
-# Types in TypeScript
+# Object in TypeScript
 
-- the types are similarly like we are using in c, C++. So types are Data Type
+- Default typed object
+- update property
+- add new Property
+- define custom type for object
+- use any with object
 
 ## Installing TypeScript
 

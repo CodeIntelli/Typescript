@@ -8,10 +8,12 @@
 
   - so we can use modular approach here
   - so just write
-  - `javascript export {}; // from that you issue is solved `
+  - ```TypeScript
+    export {}; // from that you issue is solved
+    ```
 
   - after using above command 2 lines will be added in your js file
-    ```javascript
+    ```TypeScript
     "use strict";
     exports.__esModule = true;
     ```
@@ -19,12 +21,12 @@
 - What is watch mode?
   - it is a one type of model in which when we are changing file it automatically convert to typescript
   - we can write
-  ```javascript
+  ```TypeScript
     tsc app.ts --watch
   ```
 - Run file without browser(Here we have to run js compiled file )
 
-  - ```javascript
+  - ```TypeScript
     node app.js
     ```
 
@@ -42,7 +44,7 @@
 
 - install node
 
-```javascript
+```TypeScript
 npm install -g typescript
 ```
 

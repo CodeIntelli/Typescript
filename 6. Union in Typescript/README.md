@@ -1,14 +1,6 @@
-# To run Typescript we can follow this step
+# Object in TypeScript
 
-- Make a ts file
-- Write some code
-- Run it with ts
-- Js file will be generated
-- make html file
-- add js file in html file
-- add on Chrome
-
-> Note: The First important Step if we are Creating Typescript we have to give extension .ts and So, We can not run direct .ts file we have to convert it into JavaScript.
+- union means when we have any variable in which we are not sure that which type of data we want to store then this will be more useful
 
 ## Installing TypeScript
 

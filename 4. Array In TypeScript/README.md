@@ -1,6 +1,9 @@
-# Types in TypeScript
+# Array in TypeScript
 
-- the types are similarly like we are using in c, C++. So types are Data Type
+- Array without Data Types.
+- push and update array operation in TS.
+- Mixed Array.
+- Define Array Type.
 
 ## Installing TypeScript
 
